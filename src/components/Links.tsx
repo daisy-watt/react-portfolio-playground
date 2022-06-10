@@ -30,7 +30,7 @@ export default function BasicList() {
                 </ListItem>
                 <Divider />
                 <ListItem disablePadding>
-                    <ListItemButton onClick={ () => {window.open("https://www.instagram.com/", '_blank').focus();}}>
+                    <ListItemButton onClick={ () => {window.open("https://www.instagram.com/daisy_watt/", '_blank').focus();}}>
                     <ListItemText primary=" I n s t a g r a m " />
                     </ListItemButton>
                 </ListItem>
